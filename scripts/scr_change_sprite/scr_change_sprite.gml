@@ -6,6 +6,6 @@ function scr_change_sprite(sprite){
 
 
 /// @arg {Real} position
-function scr_flip_horizontal(position) {
+function scr_flip_horizontal() {
 	image_xscale = position; 
 }
